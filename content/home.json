@@ -3,9 +3,16 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "page-title",
-      "title": "Python Box Acessórios",
-      "description": "Estamos com você, somos por você!"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_2170-copy.jpg"
+        }
+      ]
     },
     {
       "type": "info-bar",
@@ -16,6 +23,11 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "page-title",
+      "title": "Python Box Acessórios",
+      "description": "Estamos com você, somos por você!"
     }
   ]
 }
