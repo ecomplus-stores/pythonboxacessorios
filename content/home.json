@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "Instagram",
   "meta_description": "",
   "sections": [
     {
@@ -43,6 +43,10 @@
       "type": "page-title",
       "title": "Python Box Acessórios",
       "description": "Estamos com você, somos por você!"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
