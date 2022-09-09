@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
@@ -39,7 +39,10 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "hiper": false,
+    "diners": false,
     "mais": false,
+    "amex": false,
     "itau": true
   },
   "credits": ""
