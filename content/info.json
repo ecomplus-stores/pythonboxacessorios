@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "NORDESTE - FRETE COM 50% DESCONTO",
-    "title": "FRETE GRATIS PARA TODA BAHIA"
+    "text": "",
+    "title": "Frete grátis acima de R$500 em compras"
   },
   "installments": {
     "show": true,
@@ -15,6 +15,6 @@
   },
   "promo": {
     "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Siga-nos no Instagram: @pythonbox"
   }
 }
