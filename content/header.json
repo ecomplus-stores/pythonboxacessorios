@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "FRETE GRÁTIS PARA TODA A BAHIA",
+    "text": "Siga-nos no INSTAGRAM: @pythonbox",
     "link": "",
     "background": "#000000",
     "color": "#0057f0"
@@ -23,5 +23,5 @@
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": false
 }
