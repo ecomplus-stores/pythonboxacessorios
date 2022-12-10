@@ -7,10 +7,10 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/python-negativa.png",
   "repository": "ecomplus-stores/pythonboxacessorios",
+  "logo": "/img/uploads/python-negativa.png",
   "name": "Python Box Acessórios",
-  "short_name": "pythonboxacessorios",
+  "short_name": "Python Box Acessórios",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#000000",
   "icon": "/img/uploads/python-box-01.png",
   "store_id": 32672,
-  "description": "pythonboxacessorios",
+  "description": "A FORÇA DA SERPENTE NAS SUAS MÃOS",
   "large_icon": "/img/uploads/0002.jpg"
 }
