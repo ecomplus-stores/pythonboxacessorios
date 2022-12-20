@@ -40,16 +40,14 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 4,
-      "collection_id": "639493eb73321213f80dddae:categories:Acessórios:/acessorios",
-      "sort": "sales"
+      "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "page-title",
