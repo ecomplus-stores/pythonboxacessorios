@@ -45,11 +45,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 4,
       "collection_id": "639493eb73321213f80dddae:categories:Acessórios:/acessorios",
-      "sort": "views"
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "page-title",
