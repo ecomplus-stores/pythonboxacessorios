@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e631a416590d5ab1043b966632cdd34e.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.1d32c413b8cc9ee3a3bbd7cb58153826.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.50b3570adf1624d27e8b27e3c721515a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.935c6cab41d2186bfdead4bf4561f0dc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.378d091fa1119e11028d15e35f1642f7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Python Box Acessórios",
+  "short_name": "Python Box Acessórios",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A FORÇA DA SERPENTE NAS SUAS MÃOS",
+  "background_color": "#ffffff",
+  "theme_color": "#0048b3"
+}
